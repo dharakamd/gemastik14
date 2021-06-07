@@ -880,3 +880,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.07-14.48.51:759][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2021.06.07-14.48.51:760][183]LogEditorActor: Deleted 1 Actors (0.009 secs)
 [2021.06.07-14.48.55:758][325]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.07-14.51.16:448][209]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.07-14.51.16:614][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.07-14.51.16:677][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.07-14.51.16:719][209]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1D425C4CD48DDB2B969787BB06B8C597A.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap'
+[2021.06.07-14.51.16:824][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1_BuiltData" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset" SILENT=true
+[2021.06.07-14.51.16:858][209]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1_BuiltData708E02294070182BB7C0BD9391F2AFE8.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset'
+[2021.06.07-14.51.16:871][209]LogFileHelpers: Saving map 'NewMap1' took 0.413
+[2021.06.07-14.51.16:985][209]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.07-14.51.16:985][209]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap1_BuiltData.NewMap1_BuiltData
+[2021.06.07-14.51.17:013][209]LogContentValidation: Display: Validating World /Game/NewMap1.NewMap1
+[2021.06.07-14.51.32:546][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.07-14.51.32:554][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.07-14.51.32:564][351]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1C086285F4BF4A6CDF738EBA57DA25D56.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap'
+[2021.06.07-14.51.33:266][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1_BuiltData" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset" SILENT=true
+[2021.06.07-14.51.33:285][351]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1_BuiltData057638624EB0A7C4FC2D96A33C9BED20.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset'
+[2021.06.07-14.51.33:483][351]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.07-14.51.33:483][351]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap1_BuiltData.NewMap1_BuiltData
+[2021.06.07-14.51.33:484][351]LogContentValidation: Display: Validating World /Game/NewMap1.NewMap1
+[2021.06.07-14.51.37:599][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.07-14.51.37:636][576]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.06.07-14.51.40:623][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.07-14.51.40:630][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.07-14.51.40:641][724]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1F52B9F1146689FF6CDE0BF8C8A13C8E7.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap'
+[2021.06.07-14.51.40:648][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1_BuiltData" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset" SILENT=true
+[2021.06.07-14.51.40:665][724]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1_BuiltData5FCB263F47016FAF0D4830A46E36A14D.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset'
+[2021.06.07-14.51.41:190][724]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.07-14.51.41:190][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap1_BuiltData.NewMap1_BuiltData
+[2021.06.07-14.51.41:190][724]LogContentValidation: Display: Validating World /Game/NewMap1.NewMap1
+[2021.06.07-14.54.21:033][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.07-14.54.21:040][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.06.07-14.54.21:052][268]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap105D80F2843975537691EEE9F6D148C7C.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1.umap'
+[2021.06.07-14.54.21:059][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap1_BuiltData" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset" SILENT=true
+[2021.06.07-14.54.21:074][268]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/NewMap1_BuiltDataF6F18F2D4BB664B359588B829340EEFB.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/NewMap1_BuiltData.uasset'
+[2021.06.07-14.54.21:496][268]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.07-14.54.21:496][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap1_BuiltData.NewMap1_BuiltData
+[2021.06.07-14.54.21:496][268]LogContentValidation: Display: Validating World /Game/NewMap1.NewMap1
