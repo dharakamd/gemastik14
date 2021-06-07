@@ -794,3 +794,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.07-14.33.23:827][ 32]LogAssetRegistry: Asset discovery search completed in 28.2490 seconds
 [2021.06.07-14.33.23:832][ 32]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
 [2021.06.07-14.33.43:923][536]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.07-14.40.47:641][552]LogSlate: Took 0.015335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.07-14.40.57:872][807]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.07-14.40.58:073][807]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\dhara\Downloads\Potion1.fbx)
+[2021.06.07-14.40.58:424][807]LogFbx: Loading FBX Scene from C:\Users\dhara\Downloads\Potion1.fbx
+[2021.06.07-14.40.58:530][807]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.07-14.41.10:694][807]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.07-14.41.11:263][807]LogMaterial: Display: Missing cached shader map for material phong19, compiling. 
+[2021.06.07-14.41.11:495][807]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.06.07-14.41.11:495][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.06.07-14.41.11:495][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.06.07-14.41.11:495][807]LogFbx: Display: Triangulating static mesh Glass
+[2021.06.07-14.41.11:624][807]LogStaticMesh: Building static mesh Potion1_Glass...
+[2021.06.07-14.41.11:846][807]LogStaticMesh: Built static mesh [0.20s] /Game/Assets/Potion1_Glass.Potion1_Glass
+[2021.06.07-14.41.12:085][807]LogFbxMaterialImport: Display: Unable to find Texture file D:/Data/Patreon/Patreon Stuff 4/Assets/StylizedGlass/Meshes/PotionBottles.png
+[2021.06.07-14.41.12:216][807]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2021.06.07-14.41.12:224][807]LogFbx: Display: Triangulating static mesh Extra
+[2021.06.07-14.41.12:241][807]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.06.07-14.41.12:507][807]LogStaticMesh: Building static mesh Potion1_Extra...
+[2021.06.07-14.41.12:515][807]LogStaticMesh: Built static mesh [0.27s] /Game/Assets/Potion1_Extra.Potion1_Extra
+[2021.06.07-14.41.12:935][807]LogStaticMesh: Warning: Potion1_Extra has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.06.07-14.41.12:935][807]LogStaticMesh: Warning: Potion1_Extra has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.06.07-14.41.12:941][807]LogFbx: Display: Triangulating static mesh Liquid
+[2021.06.07-14.41.12:946][807]LogStaticMesh: Building static mesh Potion1_Liquid...
+[2021.06.07-14.41.12:949][807]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Potion1_Liquid.Potion1_Liquid
+[2021.06.07-14.41.13:390][807]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.07-14.41.13:390][807]FBXImport: Warning: Potion1_Extra has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.06.07-14.41.13:390][807]FBXImport: Warning: Potion1_Extra has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.06.07-14.41.14:136][807]LogSlate: Took 0.147421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.07-14.41.18:328][  4]LogSlate: Window 'Message Log' being destroyed
+[2021.06.07-14.41.18:336][  4]LogSlate: Window 'Message Log' being destroyed
+[2021.06.07-14.41.24:248][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.06.07-14.41.24:619][120]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.06.07-14.41.24:727][122]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.06.07-14.41.24:903][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.06.07-14.41.26:095][143]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.06.07-14.41.33:814][365]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Potion1_Extra.Potion1_Extra
+[2021.06.07-14.41.39:539][365]LogRenderer: Reallocating scene render targets to support 1548x920 Format 9 NumSamples 1 (Frame:1).
+[2021.06.07-14.41.39:539][365]LogSlate: Took 0.009711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.07-14.41.47:715][640]LogSlate: Window 'Potion1_Extra' being destroyed
+[2021.06.07-14.41.57:118][105]LogActorFactory: Actor Factory created Potion1_Extra
+[2021.06.07-14.41.58:327][145]LogActorFactory: Actor Factory created Potion1_Extra
+[2021.06.07-14.42.06:788][455]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.07-14.42.14:985][759]LogActorFactory: Actor Factory created Potion1_Glass
+[2021.06.07-14.42.16:055][793]LogActorFactory: Actor Factory created Potion1_Glass
+[2021.06.07-14.42.17:238][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.07-14.42.23:626][109]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.07-14.43.24:825][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.06.07-14.43.24:845][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 1.447
+[2021.06.07-14.43.24:868][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Potion1_Glass] ([1] browsable assets)...
+[2021.06.07-14.43.24:980][483]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Potion1_Glass.Potion1_Glass]
+[2021.06.07-14.43.24:980][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Potion1_Glass]
+[2021.06.07-14.43.24:980][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Potion1_Glass" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Glass_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.06.07-14.43.25:230][483]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Potion1_Glass_Auto1DB0D113B43F6F2335329BFB9061238B6.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Glass_Auto1.uasset'
+[2021.06.07-14.43.25:283][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Potion1_Extra] ([1] browsable assets)...
+[2021.06.07-14.43.25:319][483]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Potion1_Extra.Potion1_Extra]
+[2021.06.07-14.43.25:319][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Potion1_Extra]
+[2021.06.07-14.43.25:319][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Potion1_Extra" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Extra_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.06.07-14.43.25:349][483]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Potion1_Extra_Auto128859F66466B2AF654F7D7942146C7BC.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Extra_Auto1.uasset'
+[2021.06.07-14.43.25:350][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Potion1_Liquid] ([1] browsable assets)...
+[2021.06.07-14.43.25:374][483]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Potion1_Liquid.Potion1_Liquid]
+[2021.06.07-14.43.25:375][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Potion1_Liquid]
+[2021.06.07-14.43.25:375][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Potion1_Liquid" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Liquid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.06.07-14.43.25:383][483]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Potion1_Liquid_Auto11B78B6AB48998957F1A7DF9ED92934B7.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Liquid_Auto1.uasset'
+[2021.06.07-14.43.25:384][483]LogFileHelpers: Auto-saving content packages took 0.537
