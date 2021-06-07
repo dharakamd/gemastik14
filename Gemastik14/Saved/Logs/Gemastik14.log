@@ -916,3 +916,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.07-14.54.21:496][268]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.07-14.54.21:496][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap1_BuiltData.NewMap1_BuiltData
 [2021.06.07-14.54.21:496][268]LogContentValidation: Display: Validating World /Game/NewMap1.NewMap1
+[2021.06.07-14.55.46:976][291]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 Y:\gaemdef\mixamo\Dwarf Idle.fbx)
+[2021.06.07-14.55.47:001][291]LogFbx: Loading FBX Scene from Y:\gaemdef\mixamo\Dwarf Idle.fbx
+[2021.06.07-14.55.47:137][291]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.07-14.55.51:472][291]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.07-14.55.51:668][291]LogFbx: Valid bind pose for Pose (BindPose) - Cube
+[2021.06.07-14.55.51:680][291]LogMaterial: Display: Material /Game/Character/M_Deadpool_Red.M_Deadpool_Red needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.51:682][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Red, compiling. 
+[2021.06.07-14.55.51:760][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.06.07-14.55.51:760][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.06.07-14.55.51:760][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.06.07-14.55.51:760][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.06.07-14.55.51:761][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Red, compiling. 
+[2021.06.07-14.55.51:776][291]LogMaterial: Display: Material /Game/Character/M_Deadpool_Black_001.M_Deadpool_Black_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.51:939][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Black_001, compiling. 
+[2021.06.07-14.55.51:961][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Black_001, compiling. 
+[2021.06.07-14.55.51:976][291]LogMaterial: Display: Material /Game/Character/M_Deadpool_Wthie.M_Deadpool_Wthie needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.52:141][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Wthie, compiling. 
+[2021.06.07-14.55.52:162][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Wthie, compiling. 
+[2021.06.07-14.55.52:181][291]LogMaterial: Display: Material /Game/Character/M_Deadpool_Black_003.M_Deadpool_Black_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.52:440][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Black_003, compiling. 
+[2021.06.07-14.55.53:141][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Black_003, compiling. 
+[2021.06.07-14.55.53:163][291]LogMaterial: Display: Material /Game/Character/M_Deadpool_Black.M_Deadpool_Black needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.53:551][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Black, compiling. 
+[2021.06.07-14.55.53:586][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Black, compiling. 
+[2021.06.07-14.55.53:607][291]LogMaterial: Display: Material /Game/Character/M_Deadpool_Brown.M_Deadpool_Brown needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.53:661][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Brown, compiling. 
+[2021.06.07-14.55.53:825][291]LogMaterial: Display: Missing cached shader map for material M_Deadpool_Brown, compiling. 
+[2021.06.07-14.55.53:841][291]LogMaterial: Display: Material /Game/Character/Material_005.Material_005 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.07-14.55.53:844][291]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2021.06.07-14.55.53:876][291]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2021.06.07-14.55.53:900][291]LogFbx: Triangulating skeletal mesh Cube
+[2021.06.07-14.55.57:230][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 168
+[2021.06.07-14.55.57:230][291]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2021.06.07-14.55.59:553][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 158
+[2021.06.07-14.55.59:553][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 0: Material=0, 20160 triangles
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 1: Material=1, 448 triangles
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 2: Material=2, 1920 triangles
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 3: Material=3, 3392 triangles
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 4: Material=4, 9984 triangles
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 5: Material=5, 3200 triangles
+[2021.06.07-14.56.00:217][291]LogSkeletalMesh: Section 6: Material=6, 16 triangles
+[2021.06.07-14.56.00:521][291]LogSkeletalMesh: Building Skeletal Mesh Dwarf_Idle...
+[2021.06.07-14.56.00:639][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 138
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 0: Material=0, 20160 triangles
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 1: Material=1, 448 triangles
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 2: Material=2, 1920 triangles
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 3: Material=3, 3392 triangles
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 4: Material=4, 9984 triangles
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 5: Material=5, 3200 triangles
+[2021.06.07-14.56.02:565][291]LogSkeletalMesh: Section 6: Material=6, 16 triangles
+[2021.06.07-14.56.02:838][291]LogSkeletalMesh: Built Skeletal Mesh [2.43s] /Game/Character/Dwarf_Idle.Dwarf_Idle
+[2021.06.07-14.56.03:468][291]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.07-14.56.03:472][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.07-14.56.03:551][291]LogFbx: SortedLinks :(0) Hips
+[2021.06.07-14.56.03:551][291]LogFbx: SortedLinks :(1) Spine
+[2021.06.07-14.56.03:551][291]LogFbx: SortedLinks :(2) Spine1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(3) Spine2
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(4) Neck
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(5) Head
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(8) LeftArm
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(10) LeftHand
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(27) RightShoulder
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(28) RightArm
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(29) RightForeArm
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(30) RightHand
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(31) RightHandThumb1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(32) RightHandThumb2
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(33) RightHandThumb3
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(34) RightHandThumb4
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(35) RightHandIndex1
+[2021.06.07-14.56.03:552][291]LogFbx: SortedLinks :(36) RightHandIndex2
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(37) RightHandIndex3
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(38) RightHandIndex4
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(43) RightHandRing1
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(44) RightHandRing2
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(45) RightHandRing3
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(46) RightHandRing4
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(47) LeftUpLeg
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(48) LeftLeg
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(49) LeftFoot
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(50) LeftToeBase
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(51) LeftToe_End
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(52) RightUpLeg
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(53) RightLeg
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(54) RightFoot
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(55) RightToeBase
+[2021.06.07-14.56.03:553][291]LogFbx: SortedLinks :(56) RightToe_End
+[2021.06.07-14.56.03:557][291]LogFbx: Parsing AnimStack mixamo.com
+[2021.06.07-14.56.04:685][291]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Dwarf_Idle_Anim.Dwarf_Idle_Anim
+[2021.06.07-14.56.05:842][292]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 128
+[2021.06.07-14.56.06:886][295]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 118
+[2021.06.07-14.56.08:596][335]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 108
+[2021.06.07-14.56.09:123][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 98
+[2021.06.07-14.56.15:920][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2021.06.07-14.56.17:557][471]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2021.06.07-14.56.19:314][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2021.06.07-14.56.21:685][527]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2021.06.07-14.56.27:069][610]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2021.06.07-14.56.28:973][638]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2021.06.07-14.56.29:067][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Dwarf_Idle" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle.uasset" SILENT=true
+[2021.06.07-14.56.29:316][638]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Dwarf_IdleB57A5E074CD63AE00CEA0D9A4DA1162D.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle.uasset'
+[2021.06.07-14.56.29:417][638]AssetCheck: New page: Asset Save: Dwarf_Idle
+[2021.06.07-14.56.29:417][638]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Dwarf_Idle.Dwarf_Idle
+[2021.06.07-14.56.29:588][642]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.06.07-14.56.34:137][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.06.07-14.56.38:139][783]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.06.07-14.56.38:207][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.06.07-14.56.39:995][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.06.07-14.56.41:016][830]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.06.07-14.56.42:487][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.06.07-14.56.43:309][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.06.07-14.56.43:309][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.06.07-14.56.48:332][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Dwarf_Idle_Anim" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle_Anim.uasset" SILENT=true
+[2021.06.07-14.56.48:340][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Dwarf_Idle_Anim399FE9F642ADC27C475458885CF661BC.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle_Anim.uasset'
+[2021.06.07-14.56.48:353][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Dwarf_Idle_PhysicsAsset" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle_PhysicsAsset.uasset" SILENT=true
+[2021.06.07-14.56.48:463][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Dwarf_Idle_PhysicsAssetFB3719C74B444A6A4072629D4F97276D.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle_PhysicsAsset.uasset'
+[2021.06.07-14.56.48:464][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Dwarf_Idle_Skeleton" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle_Skeleton.uasset" SILENT=true
+[2021.06.07-14.56.48:497][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Dwarf_Idle_Skeleton77C1339E4C340C5B42DE42AC468E154C.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle_Skeleton.uasset'
+[2021.06.07-14.56.48:520][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Material_005" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Material_005.uasset" SILENT=true
+[2021.06.07-14.56.48:577][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Material_005B101ACC94123FF98A68C269C2BF88B88.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Material_005.uasset'
+[2021.06.07-14.56.48:601][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Deadpool_Brown" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Brown.uasset" SILENT=true
+[2021.06.07-14.56.48:622][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/M_Deadpool_Brown1070EE5B4AD13AD93B728180F9846F2D.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Brown.uasset'
+[2021.06.07-14.56.48:644][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Deadpool_Black" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Black.uasset" SILENT=true
+[2021.06.07-14.56.48:652][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/M_Deadpool_Black67506B7E4BFA11823FD777A3A1D34515.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Black.uasset'
+[2021.06.07-14.56.48:676][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Deadpool_Black_003" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Black_003.uasset" SILENT=true
+[2021.06.07-14.56.48:684][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/M_Deadpool_Black_003C734AACB4E952D4A361649BD53B2AC8E.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Black_003.uasset'
+[2021.06.07-14.56.48:712][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Deadpool_Wthie" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Wthie.uasset" SILENT=true
+[2021.06.07-14.56.48:726][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/M_Deadpool_Wthie2DCB15924D58335CAB39DFA782261E29.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Wthie.uasset'
+[2021.06.07-14.56.48:753][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Deadpool_Black_001" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Black_001.uasset" SILENT=true
+[2021.06.07-14.56.48:760][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/M_Deadpool_Black_0015278D39B4148EEA881119C87888F9D5B.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Black_001.uasset'
+[2021.06.07-14.56.48:783][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Deadpool_Red" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Red.uasset" SILENT=true
+[2021.06.07-14.56.48:790][  3]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/M_Deadpool_Red4DAA54B347D490852549C9B33C49CF2A.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/M_Deadpool_Red.uasset'
+[2021.06.07-14.56.48:932][  3]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.07-14.56.48:932][  3]LogContentValidation: Display: Validating AnimSequence /Game/Character/Dwarf_Idle_Anim.Dwarf_Idle_Anim
+[2021.06.07-14.56.48:932][  3]LogContentValidation: Display: Validating PhysicsAsset /Game/Character/Dwarf_Idle_PhysicsAsset.Dwarf_Idle_PhysicsAsset
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Skeleton /Game/Character/Dwarf_Idle_Skeleton.Dwarf_Idle_Skeleton
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/Material_005.Material_005
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/M_Deadpool_Brown.M_Deadpool_Brown
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/M_Deadpool_Black.M_Deadpool_Black
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/M_Deadpool_Black_003.M_Deadpool_Black_003
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/M_Deadpool_Wthie.M_Deadpool_Wthie
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/M_Deadpool_Black_001.M_Deadpool_Black_001
+[2021.06.07-14.56.48:947][  3]LogContentValidation: Display: Validating Material /Game/Character/M_Deadpool_Red.M_Deadpool_Red
+[2021.06.07-14.56.49:910][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Dwarf_Idle" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle.uasset" SILENT=true
+[2021.06.07-14.56.50:068][ 28]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Dwarf_Idle57B9D97646AD342B5A6685AFFDB95BB7.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Content/Character/Dwarf_Idle.uasset'
+[2021.06.07-14.56.50:081][ 28]AssetCheck: New page: Asset Save: Dwarf_Idle
+[2021.06.07-14.56.50:081][ 28]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Dwarf_Idle.Dwarf_Idle
