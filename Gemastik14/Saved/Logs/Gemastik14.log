@@ -858,3 +858,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.07-14.43.25:375][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Potion1_Liquid" FILE="../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Liquid_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2021.06.07-14.43.25:383][483]LogSavePackage: Moving '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Potion1_Liquid_Auto11B78B6AB48998957F1A7DF9ED92934B7.tmp' to '../../../../../../UE4/GEMASTIK14/Gemastik14/Saved/Autosaves/Game/Assets/Potion1_Liquid_Auto1.uasset'
 [2021.06.07-14.43.25:384][483]LogFileHelpers: Auto-saving content packages took 0.537
+[2021.06.07-14.48.42:354][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.06.07-14.48.43:806][ 85]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.07-14.48.45:327][ 85]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.07-14.48.45:327][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.07-14.48.45:458][ 85]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/phong19.phong19
+	Asset Name: /Game/Assets/Potion1_Glass.Potion1_Glass
+	Asset Name: /Game/Assets/Potion1_Extra.Potion1_Extra
+	Asset Name: /Game/Assets/phong1.phong1
+	Asset Name: /Game/Assets/Potion1_Liquid.Potion1_Liquid
+[2021.06.07-14.48.48:111][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.06.07-14.48.49:519][148]Cmd: DELETE
+[2021.06.07-14.48.50:591][148]Cmd: ACTOR DELETE
+[2021.06.07-14.48.50:976][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.07-14.48.50:985][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.07-14.48.51:061][148]LogEditorActor: Deleted 1 Actors (0.179 secs)
+[2021.06.07-14.48.51:751][183]Cmd: DELETE
+[2021.06.07-14.48.51:751][183]Cmd: ACTOR DELETE
+[2021.06.07-14.48.51:752][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.07-14.48.51:759][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.07-14.48.51:760][183]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.06.07-14.48.55:758][325]LogSlate: Window 'Save Level As' being destroyed
